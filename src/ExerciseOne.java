@@ -1,7 +1,3 @@
-//why is it not working?
-
-//changed on github
-
 import java.util.Scanner;
 public class ExerciseOne {
 
@@ -30,5 +26,3 @@ public class ExerciseOne {
     }
 
 }
-
-//comment added
