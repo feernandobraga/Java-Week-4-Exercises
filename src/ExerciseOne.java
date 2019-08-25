@@ -15,12 +15,12 @@ public class ExerciseOne {
 
         System.out.println("\nYour favorite songs are:");
         for (int i = 0; i < songs.length; i++) {
-            System.out.print(songs[0] + ", ");
+            System.out.print(songs[i] + ", ");
         }
 
-        System.out.println("\nYour favorite artits are:");
+        System.out.println("\nYour favorite artists are:");
         for (int i = 0; i < artists.length; i++) {
-            System.out.print(artists[0] + ", ");
+            System.out.print(artists[i] + ", ");
         }
 
     }
