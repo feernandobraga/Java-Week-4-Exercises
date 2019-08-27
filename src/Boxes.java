@@ -5,12 +5,14 @@ public class Boxes {
 
     // method to set the instance variable boxSize to the given value
     public void setSize(int sizeGiven){
+
         boxSize = sizeGiven;
     }
 
     // constructor that is called when a object is created
     // it gives a size to a box
     public Boxes(int boxSize){
+
         setSize(boxSize);
     }
 
